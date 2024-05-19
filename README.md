@@ -9,7 +9,10 @@
 <br><br>
 <img src="vertical.gif" alt="Vert gif" align="right" width="35%"/>
 <pre>
-    🔭 I’m currently working on a MILLION projects
+    🔭 I’m currently working on *Nekoyomi*, 
+    an offline Anime + streaming "wrapper" 
+    -focused on ease of use for iOS
+    
     🌱 I’m currently learning back-end dev
     👯 I’m looking to collaborate on any projects💖
     🎮 Music • Games • Anime • Code • Art
