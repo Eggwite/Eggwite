@@ -21,7 +21,6 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/instagram-0a66c2)](https://www.instagram.com/eggwhaa/)
-[![](https://img.shields.io/badge/eggwite.me-6364ff)](https://eggwite.me)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/645592944/)
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=Eggwite&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="User GitHub Stats" width="500"/>
